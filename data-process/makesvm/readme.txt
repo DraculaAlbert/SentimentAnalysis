@@ -1,0 +1,1 @@
+本代码功能是将test中的句子工具mydict词典生成可供svmperf读的文件

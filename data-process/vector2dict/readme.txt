@@ -1,0 +1,4 @@
+result是word2vec生成的txt文本
+dict是标准词典
+mydict是result中包含在标准词典中的词语，且添加了标号和权重
+
